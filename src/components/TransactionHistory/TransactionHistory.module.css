@@ -1,0 +1,29 @@
+.transactionHistory {
+    margin: 0 auto;
+    width: 500px;
+    table-layout: auto;
+  }
+  
+  .transactionHead {
+    font-weight: 700;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  } 
+  
+  .transactionHead tr th {
+    background-color: rgb(13, 79, 202);
+    padding: 10px;
+  }
+  
+  .transactionBody tr td {
+    padding: 10px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .transactionBody {
+    font-size: 16px;
+    color: grey;
+    padding: 30px;
+  } 
